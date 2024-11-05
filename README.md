@@ -1,7 +1,7 @@
 <p>i code stuff i guess</p>
 
 # Porg Lang i know:
-<p> 0 to 10 knowledge of the languages</p>
+<p> 0 to 10 knowledge/experience of the languages</p>
 <ol>
   <li>Python: 7/10 - knows some</li>
   <li>Java: 4/10 - haven't done much with it</li>
