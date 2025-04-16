@@ -8,7 +8,7 @@
   <li>JavaScript: 2/10 - barely done anything</li>
   <li>C#: 3/10 - stacktraces are not fun</li>
   <li>COBOL: 7/10 - "rare gen Z breed who knows and codes in COBOL"</li>
-  <li>Rust: 2/10 - will learn someday when i have the time</li>
+  <li>Rust: 3/10 - 2025-04-16 learning atm</li>
   <li>Assembly: 0/10 - would learn it for the memes</li>
 </ol>
 
